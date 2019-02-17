@@ -8,6 +8,7 @@ A pipeline that carries out feature extraction of residual substructure within t
 5. A catalog entry indicating the surface brightness and its error.
 
 **Author:** Kameswara Bharadwaj Mantha
+
 **email:** km4n6@mail.umkc.edu
 
 **Publication:** 
