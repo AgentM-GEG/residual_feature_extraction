@@ -66,7 +66,7 @@ b) When mentioning the paths, please DO NOT provide "/" for the last folder. You
 
 *Default value: 2*
 
-**IV. redshift:** Enter the redshift of the galaxy from the catalog. This is used to judge the outer circle, which in this case is hardcoded to 30 kpc.
+**IV. redshift:** Enter the redshift of the galaxy from the catalog. This is used to figure out the corresponding physical distance around the galaxy of interest.
 
 *Default value:* None, this is a required field.
 
