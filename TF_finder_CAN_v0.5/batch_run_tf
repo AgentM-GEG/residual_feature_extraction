@@ -1,0 +1,19 @@
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gds_14637.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gdn_14758.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gdn_19863.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gds_14637_wide.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gds_14876.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gds_14876_wide.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gds_16440.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gds_4608.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/gds_4608_wide.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/plausible_tf/uds_24437.param'

@@ -1,0 +1,7 @@
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/disks/egs_10518.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/disks/egs_12782.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/disks/egs_27018.param'
+
+python Tidal_feature_finder.py -p '/Users/km4n6/Dropbox/bharath/Mantha Method/manuscript/Submissions to MNRAS/public_code/Mantha02_data_products/parameter_files/disks/gds_18959.param'
