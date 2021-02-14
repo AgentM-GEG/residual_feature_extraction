@@ -75,8 +75,6 @@ def identify_objects(image_data,nsigma,min_area,deb_n_thresh,deb_cont,param_dict
     ## Extract the objects and generate a segmentation map.
     objects, segmap = sep.extract(bkg_subtracted, nsigma, err=global_bkg.globalrms, minarea=min_area, deblend_nthresh=deb_n_thresh, deblend_cont=deb_cont,segmentation_map=True, filter_kernel=source_kernel.array)
 
-    segmask = copy.deepcopy(segmap)#deep copy the segmap such that further manipulation doesn't affect the segmap
-    skymask = invert_segmap(segmask) #invert the segmap into a binary mask, where the bkg sky is set to 1, and the sources to 0. This is the sky mask.
 
     ## save the segmentation map and the sky mask to respective fits files, with appropriate headers.
     fits.writeto(param_dict['fits_save_loc']+'/%s_%ssig_%sker_segmap.fits'%(os.path.basename(param_dict['gfit_outfile']).strip('.fits'),nsigma,param_dict['sep_filter_size']),segmap,header=get_original_image_header(param_dict['gfit_outfile']),overwrite=True)
